@@ -1,2 +1,2 @@
 # MedWeb
-A example of a static medical website
+An example of a static medical website.
